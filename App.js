@@ -9,6 +9,7 @@ function App() {
       <User />
      <Home />
     <About />
+    <products>
     </div>
   );
 }
